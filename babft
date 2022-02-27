@@ -1,0 +1,68 @@
+local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm starting... In 5";
+            Duratation = "5"
+        })
+        wait(1)
+        local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm starting... In 4";
+            Duratation = "5"
+        })
+        wait(1)
+        local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm starting... In 3";
+            Duratation = "5"
+        })
+        wait(1)
+        local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm starting... In 2";
+            Duratation = "5"
+        })
+        wait(1)
+        local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm starting... In 1";
+            Duratation = "5"
+        })
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-50, 16, 1397)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-60, 61, 2171)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-48, 48, 2912)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-49, 36, 3691)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-52, 68, 4442)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-59, 52, 5219)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-53, 56, 5996)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-47, 66, 6766)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46, 89, 7535)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-50, 81, 8313)
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-54, -360, 9503)
+wait(10)
+local CoreGui = game:GetService("StarterGui")
+
+        CoreGui:SetCore("SendNotification", {
+            Title = "Auto farm";
+            Text = "Autofarm complete continuing in 5 seconds";
+            Duratation = "5"
+        })
